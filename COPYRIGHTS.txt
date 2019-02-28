@@ -1,0 +1,69 @@
+SKETCHv1.1
+Copyright (C) 2018 Laboratory for Information and Inference Systems (LIONS)
+		    Ecole Polytechnique Federale de Lausanne, Switzerland.
+
+SKETCH implements a class definition for the single-view methods 
+considered in [TYUC2019] for the fixed-rank approximation of a 
+matrix from streaming data.
+
+SKETCH is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+SKETCH is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+[TYUC2019] J.A. Tropp, A. Yurtsever, M. Udell and V. Cevher. Streaming 
+Low-Rank Matrix Approximation with an Application to Scientific Simulation. 
+
+
+
+NysSKETCHv1.0
+Copyright (C) 2017 Laboratory for Information and Inference Systems (LIONS)
+		    Ecole Polytechnique Federale de Lausanne, Switzerland.
+
+NysSKETCH implements a class definition for the single-view methods considered in [TYUC2017N] for the fixed-rank approximation of a positive-semidefinite matrix from streaming data.
+
+NysSKETCH is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+NysSKETCH is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+[TYUC2017N] J.A. Tropp, A. Yurtsever, M. Udell and V. Cevher. Fixed-Rank Approximation of a Positive-Semidefinite Matrix from Streaming Data. In Proc. 31st Conference on Neural Information Processing Systems (NeurIPS), Long Beach, CA, USA, December 2017.
+
+
+
+
+PRACTICALSKETCHINGv1.0
+Copyright (C) 2017 Laboratory for Information and Inference Systems (LIONS)
+		    Ecole Polytechnique Federale de Lausanne, Switzerland.
+
+PRACTICALSKETCHING implements a class definition for the single-view low-rank matrix approximation algorithms considered in [TYUC2017].
+
+PRACTICALSKETCHING is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, version 3 of the License.
+
+PRACTICALSKETCHING is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+[TYUC2017] J.A. Tropp, A. Yurtsever, M. Udell and V. Cevher, Practical Sketching Algorithms for Low-Rank Matrix Approximation, SIMAX, 2017.
